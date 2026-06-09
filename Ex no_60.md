@@ -1,13 +1,3 @@
-# EX 60 C function to find the peek element of the queue using linked list.
-## DATE:
-## AIM:
-To write a C function to find the peek element of the queue using linked list.
-
-## Algorithm
-1. 
-2. 
-3. 
-4.  # EX 60 C function to find the peek element of the queue using linked list.
 ## DATE:24/11/2025
 ## AIM:
 To write a C function to find the peek element of the queue using linked list.
@@ -38,25 +28,6 @@ void peek()
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/2304b47b-6f48-47d2-ada7-d050be32dab5)
-
-
-## Result:
-Thus the program was executed and the output was verified successfully.
-5.   
-
-## Program:
-```
-/*
-C function to find the peek element of the queue using linked list.
-
-Developed by: 
-RegisterNumber:  
-*/
-```
-
-## Output:
-
-
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
